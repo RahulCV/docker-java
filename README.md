@@ -8,7 +8,7 @@ docker pull rahulcv/java:latest
 
 ### Build from GitHub
 ```
-docker build -t rahulcv/java github.com/beevelop/docker-java
+docker build -t rahulcv/java github.com/rahulcv/docker-java
 ```
 
 ### Run image
