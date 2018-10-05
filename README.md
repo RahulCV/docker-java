@@ -1,5 +1,5 @@
 # Java 8 (1.8.0_111)
-### based on Ubuntu 18.04 (Bioniv Beaver)
+### based on Ubuntu 18.04 (Bionic Beaver)
 ----
 ### Pull from Docker Hub
 ```
